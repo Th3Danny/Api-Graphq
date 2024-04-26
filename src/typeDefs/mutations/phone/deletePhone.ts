@@ -1,0 +1,1 @@
+export const deletePhone : string = `deletePhone (id: Int!) : Phone`

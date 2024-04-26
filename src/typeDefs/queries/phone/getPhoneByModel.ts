@@ -1,0 +1,1 @@
+export const getPhoneByModel : string = "PhoneByModel(phoneModel : String!) : Phone"

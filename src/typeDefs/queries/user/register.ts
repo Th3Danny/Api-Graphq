@@ -1,0 +1,1 @@
+export const register : String = "register(email: String!, password: String!) : User"

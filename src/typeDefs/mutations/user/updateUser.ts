@@ -1,0 +1,1 @@
+export const updateUser : string = `updateUser (id : Int!, email : String!, password : String!) : User`

@@ -1,0 +1,1 @@
+export const getUsers : string = "users(pag: Int!) : [User]"

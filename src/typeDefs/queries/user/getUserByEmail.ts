@@ -1,0 +1,1 @@
+export const getUserByEmail : string = "userbyEmail(email: String!) : User"

@@ -1,0 +1,1 @@
+export const createPhone : string = `createPhone (model : String!, brand : String!, stock : Int!) : Phone`

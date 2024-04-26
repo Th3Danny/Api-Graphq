@@ -1,0 +1,1 @@
+export const updatePhone : string = `updatePhone (id : Int!, model : String!, brand : String!, stock : Int!) : Phone`
